@@ -1,0 +1,15 @@
+.link-button {
+    background-color: #F79BD3;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .link-button:hover {
+    background-color: #FFDBC3;
+    transform: scale(1.05) translateZ(0);
+  }

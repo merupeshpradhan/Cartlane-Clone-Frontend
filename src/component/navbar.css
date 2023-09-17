@@ -1,0 +1,41 @@
+*{
+    padding:0;margin:0;box-sizing:border-box;
+}
+#navbtn{
+    position: relative;
+    color: rgb(94, 0, 122);
+    font-family: 'Playfair Display SC', serif;
+}
+#navbtn:after{
+    content:"";
+    position: absolute;
+    background-color:rgb(94, 0, 122);
+    height: 1px;
+    width:0;
+    left:0;
+    bottom: 0px;
+    transition: 1s;
+}
+#navbtn:hover::after{
+    width: 100%;
+}
+#icons{
+    display: flex;align-items: center;padding-left: 6px;
+}
+
+/* ============================================================================================================ */
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}

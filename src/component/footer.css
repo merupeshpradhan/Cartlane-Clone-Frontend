@@ -1,0 +1,24 @@
+#footerbody{
+    background: linear-gradient(#ff9bab,#ffd2e8,#ffd2e8);
+    min-height: 100vh;
+  }
+  
+  #button-addon1 {
+    color: #000000;
+  }
+  
+  i {
+    color: #000000;
+  }
+  #copyrightfooter{
+    background: linear-gradient(to right, #ff93a5, #FFE1F0, #ff93a5);
+  }
+  .form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+  }
+  
+  .form-control.shadow-0:focus {
+    box-shadow: none;
+  }

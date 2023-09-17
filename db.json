@@ -1,0 +1,487 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rupesh",
+      "email": "useremail@gmail.com",
+      "password": "ru123"
+    },
+    {
+      "id": 2,
+      "username": "amiya",
+      "email": "aaaaaaaaaaaa",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "username": "amiya12",
+      "email": "aaaaaaal",
+      "password": "aaaaaa"
+    },
+    {
+      "username": "rupesh123",
+      "email": "rupesh@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Charming Ancillary",
+      "desc": "rakhi gifts",
+      "price": "59000",
+      "image": "https://t3.ftcdn.net/jpg/01/18/73/34/360_F_118733435_00eoPxladh2DTuRQWAfjPNqdtuX4mamd.jpg",
+      "rating": "4",
+      "catagory": "bangles"
+    },
+    {
+      "id": 2,
+      "title": "Unimportant ",
+      "desc": "Vera Floral Diamond Bangle",
+      "price": "31000",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/B/JB00278-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bangles"
+    },
+    {
+      "id": 3,
+      "title": "Charming",
+      "desc": "Round Geo Diamond Bangle",
+      "price": "93000",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/B/JB01205-1RP600_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bangles"
+    },
+    {
+      "id": 4,
+      "title": "Necklace Place ",
+      "desc": "Anna Hexagon Gold Bangle",
+      "price": "23000",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/B/UB00197-YG0000_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bangles"
+    },
+    {
+      "id": 5,
+      "title": "The Ideal Auxiliary ",
+      "desc": "Swaying Pearl Bangle",
+      "price": "73000",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/B/JB01204-1YP6P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bangles"
+    },
+    {
+      "id": 6,
+      "title": "UnpolishedGem",
+      "desc": "Chloe Criss-Cross Gold Bangle",
+      "price": "65000",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/B/UB00198-YG0000_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bangles"
+    },
+    {
+      "id": 7,
+      "title": "Gnostic Gemstone",
+      "desc": "rakhi gifts",
+      "price": "29000",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/R/SR02012-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "rings"
+    },
+    {
+      "id": 8,
+      "title": "Costume Diamond ",
+      "desc": "rakhi gifts",
+      "price": "32000",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/R/SR00152-WGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "rings"
+    },
+    {
+      "id": 9,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "38700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/R/SR02041-PT0000_1_lar.jpg",
+      "rating": "4",
+      "catagory": "rings"
+    },
+    {
+      "id": 10,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "72700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/R/SR02761-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "rings"
+    },
+    {
+      "id": 11,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "94700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/R/SR02482-RGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "rings"
+    },
+    {
+      "id": 12,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "69700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/R/SR00131-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "rings"
+    },
+    {
+      "id": 13,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "43700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/R/SR02085-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "rings"
+    },
+    {
+      "id": 14,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "43700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/E/JE07813-1YP6P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "earrings"
+    },
+    {
+      "id": 15,
+      "title": "rakhi gifts",
+      "desc": "Borja Diamond Stud Earrings",
+      "price": "43700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/E/JE06891-1YP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "earrings"
+    },
+    {
+      "id": 16,
+      "title": "rakhi gifts",
+      "desc": "Siria Diamond Stud Earrings",
+      "price": "43700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/E/JE06694-1YP600_1_lar.jpg",
+      "rating": "4",
+      "catagory": "earrings"
+    },
+    {
+      "id": 17,
+      "title": "rakhi gifts",
+      "desc": "Meghraa Pearl Drop Earrings",
+      "price": "67700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/E/JE07604-1YP6P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "earrings"
+    },
+    {
+      "id": 18,
+      "title": "rakhi gifts",
+      "desc": "Plumeria Cluster Diamond Stud Earrings",
+      "price": "67700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/E/JE02774-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "earrings"
+    },
+    {
+      "id": 19,
+      "title": "rakhi gifts",
+      "desc": "Glittering Petals Diamond Stud earrings",
+      "price": "34700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/E/JE04854-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "earrings"
+    },
+    {
+      "id": 20,
+      "title": "rakhi gifts",
+      "desc": "Chopper Personalised Kids' Gold Bracelet",
+      "price": "8700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/T/UT00702-1Y0000_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bracelet"
+    },
+    {
+      "id": 21,
+      "title": "rakhi gifts",
+      "desc": "Peppa Fairy Kids' Gold Bracelet",
+      "price": "8700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/T/UT00997-1Y0000_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bracelet"
+    },
+    {
+      "id": 22,
+      "title": "rakhi gifts",
+      "desc": "Nazia Sparkle Diamond Bracelet",
+      "price": "12700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01127-1YP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bracelet"
+    },
+    {
+      "id": 23,
+      "title": "rakhi gifts",
+      "desc": "Rashi Radiant Gemstone Bracelets",
+      "price": "12700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01748-1YP9CI_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bracelet"
+    },
+    {
+      "id": 24,
+      "title": "rakhi gifts",
+      "desc": "Shiva Baby Nazaria Gold Bracelet",
+      "price": "12700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/T/UT00519-YG0000_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bracelet"
+    },
+    {
+      "id": 25,
+      "title": "rakhi gifts",
+      "desc": "Zohreh Diamond Bracelet",
+      "price": "12700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01681-1YP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bracelet"
+    },
+    {
+      "id": 26,
+      "title": "rakhi gifts",
+      "desc": "Millie Bloom Gemstone Bracelets",
+      "price": "15700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01745-1YP9CI_1_lar.jpg",
+      "rating": "4",
+      "catagory": "bracelet"
+    },
+    {
+      "id": 27,
+      "title": "rakhi gifts",
+      "desc": "Soha Solitaire Mangalsutra",
+      "price": "102700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/S/S/SS00012-YGP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "necklace"
+    },
+    {
+      "id": 28,
+      "title": "rakhi gifts",
+      "desc": "Nousha Gemstone Necklace",
+      "price": "52700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04410-1YP9P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "necklace"
+    },
+    {
+      "id": 29,
+      "title": "rakhi gifts",
+      "desc": "Yesfir Gemstone Necklace",
+      "price": "72700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04407-1YP9P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "necklace"
+    },
+    {
+      "id": 30,
+      "title": "rakhi gifts",
+      "desc": "Floret Pearl String Necklace",
+      "price": "72700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00271-YG00P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "necklace"
+    },
+    {
+      "id": 31,
+      "title": "rakhi gifts",
+      "desc": "Doris Heartbeat Diamond Necklace",
+      "price": "22700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/L/JL03574-1RP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "necklace"
+    },
+    {
+      "id": 32,
+      "title": "rakhi gifts",
+      "desc": "Adore Personalised Gemstone Necklace",
+      "price": "62700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00627-1Y00P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "necklace"
+    },
+    {
+      "id": 33,
+      "title": "rakhi gifts",
+      "desc": "Nousha Gemstone Necklace",
+      "price": "52700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04410-1YP9P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "pendant"
+    },
+    {
+      "id": 34,
+      "title": "rakhi gifts",
+      "desc": "Yesfir Gemstone Necklace",
+      "price": "72700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04407-1YP9P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "pendant"
+    },
+    {
+      "id": 35,
+      "title": "rakhi gifts",
+      "desc": "Floret Pearl String Necklace",
+      "price": "72700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00271-YG00P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "pendant"
+    },
+    {
+      "id": 36,
+      "title": "rakhi gifts",
+      "desc": "Doris Heartbeat Diamond Necklace",
+      "price": "22700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/L/JL03574-1RP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "pendant"
+    },
+    {
+      "id": 37,
+      "title": "rakhi gifts",
+      "desc": "Adore Personalised Gemstone Necklace",
+      "price": "62700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00627-1Y00P0_1_lar.jpg",
+      "rating": "4",
+      "catagory": "pendant"
+    },
+    {
+      "id": 38,
+      "title": "rakhi gifts",
+      "desc": "Shiva Baby Nazaria Gold Bracelet",
+      "price": "12700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/U/T/UT00519-YG0000_1_lar.jpg",
+      "rating": "4",
+      "catagory": "pendant"
+    },
+    {
+      "id": 39,
+      "title": "rakhi gifts",
+      "desc": "Zohreh Diamond Bracelet",
+      "price": "12700",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01681-1YP900_1_lar.jpg",
+      "rating": "4",
+      "catagory": "pendant"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "59000",
+      "image": "https://cdn.caratlane.com/media/static/images/V4/2023/CL/08-AUG/AppBanner/RTS_RB/01/Desktop_1920x560_toplisting.jpg",
+      "rating": "4",
+      "pid": 1,
+      "username": "amiya"
+    },
+    {
+      "id": 2,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "59000",
+      "image": "https://cdn.caratlane.com/media/static/images/V4/2023/CL/08-AUG/AppBanner/RTS_RB/01/Desktop_1920x560_toplisting.jpg",
+      "rating": "4",
+      "pid": 1,
+      "username": "amiya"
+    },
+    {
+      "id": 3,
+      "title": "rakhi gifts",
+      "desc": "rakhi gifts",
+      "price": "59000",
+      "image": "https://t3.ftcdn.net/jpg/01/18/73/34/360_F_118733435_00eoPxladh2DTuRQWAfjPNqdtuX4mamd.jpg",
+      "rating": "4",
+      "pid": 1,
+      "username": null
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "name": "balaji jewellery store",
+      "city": "mumbai",
+      "address": "near Zuhu Beach",
+      "phone": "9089786756",
+      "image": "https://images.unsplash.com/photo-1576723417715-6b408c988c23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "rating": "5"
+    },
+    {
+      "id": 2,
+      "name": "Silicon jewellery",
+      "city": "mumbai",
+      "address": "mumbai bandra",
+      "phone": "9089786756",
+      "image": "https://i.pinimg.com/736x/1a/b2/ef/1ab2eff79e0702848b0687ee2dc76afc.jpg",
+      "rating": "4"
+    },
+    {
+      "id": 3,
+      "name": "Monoj vai jewellery",
+      "city": "bhubaneswar",
+      "address": "Kalpana Square",
+      "phone": "9089786756",
+      "image": "https://images.unsplash.com/photo-1576723417715-6b408c988c23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "rating": "4"
+    },
+    {
+      "id": 4,
+      "name": "Caratlane",
+      "city": "bhubaneswar",
+      "address": "Rasulgarh Esplanade",
+      "phone": "9089786756",
+      "image": "https://cdn.caratlane.com/media/static/images/V4/2023/CL/08-AUG/AppBanner/RTS_RB/01/Desktop_1920x560_toplisting.jpg",
+      "rating": "5"
+    },
+    {
+      "id": 5,
+      "name": "Tanishq",
+      "city": "bengaluru",
+      "address": "Bengaluru Ck Road",
+      "phone": "9089786756",
+      "image": "https://images.unsplash.com/photo-1576723417715-6b408c988c23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "rating": "3"
+    },
+    {
+      "id": 6,
+      "name": "Sarala jewellery",
+      "city": "mumbai",
+      "address": "Andheri road 2000",
+      "phone": "9089786756",
+      "image": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/21645171229621.jpg",
+      "rating": "5"
+    },
+    {
+      "id": 7,
+      "name": "balaji jewellery store",
+      "city": "Delhi",
+      "address": "Old Delhi 2089 street",
+      "phone": "9089786756",
+      "image": "https://cdn.caratlane.com/media/static/images/V4/2023/CL/08-AUG/AppBanner/RTS_RB/01/Desktop_1920x560_toplisting.jpg",
+      "rating": "2"
+    },
+    {
+      "id": 8,
+      "name": "Mahalaxmi Jewellery store",
+      "city": "Delhi",
+      "address": "Delhi chor bazar ",
+      "phone": "9089786756",
+      "image": "https://images.unsplash.com/photo-1576723417715-6b408c988c23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "rating": "5"
+    }
+  ]
+}

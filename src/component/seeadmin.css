@@ -1,0 +1,8 @@
+tr{
+    padding: 0;
+}
+tr:hover{
+    position: relative;
+    z-index: 20;
+    box-shadow: 1px 1px 10px rgb(255, 109, 133);
+}
