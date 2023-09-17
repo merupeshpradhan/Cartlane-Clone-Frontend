@@ -1,4 +1,3 @@
-import { NavLink } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import queryString from "query-string";
@@ -87,10 +86,22 @@ const AllProduct = () => {
     navigate("/Cartlane-Clone-Frontend/singleproduct", { state: e });
   }
 
+  const Filterdata=async(temp)=>{
+    if(temp=="")fetchData1();
+    else{
+      let res = await fetch(
+        `https://cartlaneclone.onrender.com/products?catagory=${temp}`
+      );
+      let data = await res.json();
+      setProduct(data);
+      setIsLoading(false);
+    }
+  }
+
   return (
     <>
       <div
-        className="d-flex "
+        className="d-flex"
         style={{
           backgroundColor: "#FFD1DA",
           justifyContent: "space-between",
@@ -117,33 +128,38 @@ const AllProduct = () => {
           </button>
           <ul className="dropdown-menu btn-info">
             <li>
-              <a className="dropdown-item" href="/Cartlane-Clone-Frontend/allproduct?cat=bracelet">
+              <a className="dropdown-item" onClick={()=>Filterdata("bracelet")}>
                 BRACELET
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="/Cartlane-Clone-Frontend/allproduct?cat=necklace">
+              <a className="dropdown-item" onClick={()=>Filterdata("necklace")}>
                 NECKLACE
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="/Cartlane-Clone-Frontend/allproduct?cat=pendant">
+              <a className="dropdown-item" onClick={()=>Filterdata("pendant")}>
                 PENDENTS
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="/Cartlane-Clone-Frontend/allproduct?cat=earrings">
+              <a className="dropdown-item" onClick={()=>Filterdata("rings")}>
                 RINGS
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="/Cartlane-Clone-Frontend/allproduct?cat=bangles">
+              <a className="dropdown-item" onClick={()=>Filterdata("bangles")}>
                 BANGLES
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="/Cartlane-Clone-Frontend/allproduct?cat=earrings">
+              <a className="dropdown-item" onClick={()=>Filterdata("earrings")}>
                 EAR-RINGS
+              </a>
+            </li>
+            <li>
+              <a className="dropdown-item" onClick={()=>Filterdata("")}>
+                AllProduct
               </a>
             </li>
           </ul>
